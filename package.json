@@ -2,7 +2,7 @@
   "name": "@zm-credit-miniapp-templates/todo",
   "version": "0.0.1",
   "description": "",
-  "main": "''",
+  "main": "",
   "publishConfig": {
     "access": "public"
   },
